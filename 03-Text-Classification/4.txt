@@ -1,0 +1,3 @@
+This is a file fot testing classification.
+Hello, how are you?
+I am fine.
